@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Terrain Build",
+"productVersion": "0.1",
+"dataUrl": "Terrain WebGLv2.data.unityweb",
+"wasmCodeUrl": "Terrain WebGLv2.wasm.code.unityweb",
+"wasmFrameworkUrl": "Terrain WebGLv2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
